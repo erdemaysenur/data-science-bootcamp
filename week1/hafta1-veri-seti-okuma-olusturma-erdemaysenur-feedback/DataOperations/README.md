@@ -8,9 +8,6 @@ DataOperations class is made to carry out some quick loadings, analysing and vis
 
 If you'd like to use this tool, you should clone this repository or download the file 'ayse.py'
 
-```
-git clone xxxxxxxxxxxxxxxxx.git
-```
 
 Once you have 'ayse.py' in your local, you can use it in your project that is located in the same directory. Then you can import it as follows:
 
