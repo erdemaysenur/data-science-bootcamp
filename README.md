@@ -28,10 +28,12 @@
 - Keras, Tensorflow, Pytorch kütüphanelerinin kullanımı
 - Keras ile Classification ve Regression
 
+
 **6.Hafta**
 - RNN, LSTM nedir?
 - NLP Nedir?, NLP nerede kullanılır?
 - NLP Uygulaması
+    - Bonus ders: Docker
 
 **7.Hafta**
 - CNN nedir?
