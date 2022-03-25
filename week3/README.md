@@ -1,4 +1,4 @@
-# Hafta 2
+# Hafta 3
 ## Lineer Regresyon
 
 Veri Bilimi Bootcamp'in 3.haftasında, Lineer Regresyon, Lojistik Regresyon, Karar Ağaçları ve ensemble modeller işlendi. Linner Regresyon ödevi için daha önce keşifsel analizini yaptığım veri setini kulandım. Bu görev için uygun olacak bir özelliği hedef olarak seçerek tahmin yaptırdım. Metrik olarak regresyon modeline uygun olan mean squared error kullandım.
